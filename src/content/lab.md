@@ -11,30 +11,50 @@
 ## Faculty
 
 ### Dr. Ravi Prakash
-image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop
+image: src/assets/ravi.jpeg
 role: Assistant Professor, Principal Investigator
 link: /faculty
 
 ## Members
 
-### Vishnu
-image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop
+### Basu Hela
+image: src/assets/basu.jpg
+role: PhD Student
+link: #
+
+### Shubham Sonkar
+image: src/assets/shubham.jpg
+role: PhD Student
+link: #
+
+### Varuni Buereddy
+image: src/assets/varuni.jpeg
+role: PhD Student
+link: #
+
+### Akhil R Kurup
+image: src/assets/akhil.jpeg
 role: Master's Student
 link: #
 
-### Sahil
-image: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop
+### Mumuksh Tayal
+image: src/assets/mumuksh.jpeg
 role: Master's Student
 link: #
 
-### Farhad
-image: https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop
-role: Master's Student
+### Shreyas Kumar
+image: src/assets/shreyas.jpg
+role: Research Associate
+link: https://shr-eyas.github.io/
+
+### Anurag Maurya
+image: src/assets/anurag.jpg
+role: Research Associate
 link: #
 
-### Saumya
-image: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop
-role: Master's Student
+### Shashwat Gupta
+image: src/assets/shashwat.jpg
+role: Research Associate
 link: #
 
 ## Robots
@@ -49,8 +69,6 @@ image: https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=200&h=200&
 role: Collaborative Robot Arm
 link: https://www.franka.de/
 
-## Hehe
-
 ### UR5e
 image: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200&h=200&fit=crop
 role: Universal Robots Manipulator
@@ -63,12 +81,8 @@ link: https://www.franka.de/
 
 ## Alumni
 
-### Amin
-image: https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop
-role: M.Sc. Graduate (Cum Laude), TU Delft
+### Karthik Swaminathan
+image: src/assets/karthik.png
 link: #
 
-### Besim
-image: https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&h=200&fit=crop
-role: M.Sc. Graduate, TU Delft
-link: #
+

@@ -34,7 +34,7 @@ export function FacultySection({ onBack }: FacultySectionProps) {
               <img
                 src={faculty.image}
                 alt={faculty.name}
-                className="w-48 h-48 rounded-full object-cover mx-auto md:mx-0"
+                className="w-48 h-48 rounded-lg object-cover mx-auto md:mx-0"
               />
             </div>
             <div className="flex-1">

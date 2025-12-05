@@ -1,6 +1,6 @@
 # Ravi Prakash
 email: ravipr[at]iisc[dot]ac[dot]in
-image: https://ravipr009.github.io/mypics/ravipr_circle.png
+image: src/assets/ravi.jpeg
 
 ## Bio
 
