@@ -83,7 +83,7 @@ export function LabSection({ onFacultyClick }: LabSectionProps) {
                       <img
                         src={member.image}
                         alt={member.name}
-                        className="w-28 h-28 object-cover rounded mb-3 mx-auto"
+                        className="w-36 h-36 object-cover rounded mb-3 mx-auto"
                       />
                       <p className="font-medium text-foreground group-hover:text-accent transition-colors">
                         {member.name}
